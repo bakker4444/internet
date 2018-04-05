@@ -8,7 +8,7 @@ internet.css
 ```
 
 ### Assignment details  
-For this assignment, we want you to watch how many times you're using <div> tags. Whenever you have one element within a division, it means you don't need that division! For example, imagine you had a code like this  
+For this assignment, we want you to watch how many times you're using \<div> tags. Whenever you have one element within a division, it means you don't need that division! For example, imagine you had a code like this  
 ```
 <div id="banner">
   <h1>Word Stream</h1>
